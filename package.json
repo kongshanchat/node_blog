@@ -19,5 +19,18 @@
   "bugs": {
     "url": "https://github.com/kongshanchat/node_blog/issues"
   },
-  "homepage": "https://github.com/kongshanchat/node_blog#readme"
+  "homepage": "https://github.com/kongshanchat/node_blog#readme",
+    "devDependencies": {
+    "eslint": "^5.5.0",
+    "bcryptjs": "^2.4.3",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.1",
+    "koa-static": "^4.0.2",
+    "koa-views": "^6.1.4",
+    "marked": "^0.4.0",
+    "mongoose": "^5.1.2",
+    "nunjucks": "^3.1.2"
+  }
 }
